@@ -1,7 +1,7 @@
 # Redux Counter
 
 ## Topics
-776
+
 * Immutability in JavaScript
 * Redux
 * Actions
